@@ -1,0 +1,10 @@
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ án chdan.csproj.AssemblyReference.cache
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ_án_chdan.Properties.Resources.resources
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ án chdan.csproj.GenerateResource.cache
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ án chdan.csproj.CoreCompileInputs.cache
+K:\Cpp\lthdt\đồ án chdan\bin\Debug\đồ án chdan.exe.config
+K:\Cpp\lthdt\đồ án chdan\bin\Debug\đồ án chdan.exe
+K:\Cpp\lthdt\đồ án chdan\bin\Debug\đồ án chdan.pdb
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ_án_chdan.Form1.resources
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ án chdan.exe
+K:\Cpp\lthdt\đồ án chdan\obj\Debug\đồ án chdan.pdb
